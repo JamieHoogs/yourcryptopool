@@ -1,0 +1,16 @@
+# Node.js dependencies
+node_modules/
+
+# Environment files (keep secrets out of version control)
+.env
+
+# Log files
+logs/
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Optional: Temporary build files or other directories
+dist/
